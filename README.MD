@@ -7,7 +7,7 @@
 ```bash
 npm install
 npm run init
-npm start
+npm run start
 ```
 - Open `http://localhost:3000`
 
