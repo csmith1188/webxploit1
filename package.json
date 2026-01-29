@@ -1,0 +1,15 @@
+{
+    "name": "vuln-express-lab",
+    "version": "1.0.0",
+    "private": true,
+    "main": "server.js",
+    "scripts": {
+      "init": "node init_db.js",
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.19.2",
+      "sqlite3": "^5.1.7"
+    }
+  }
+  
